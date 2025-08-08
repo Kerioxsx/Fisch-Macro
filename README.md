@@ -1,2 +1,8 @@
 # Fisch-Macro
-I’m a new coder who develops game macros for macOS, allowing players to run them without having to set up a Windows environment.
+Copyright (c) 2025 Kerioxsx
+All rights reserved.
+
+This software and its source code are the exclusive property of Kerioxsx.
+Unauthorized copying, modification, distribution, or use of this software, in whole or in part, is strictly prohibited without prior written permission from the author.
+
+For inquiries, please contact: **[kerioxsx@gmail.com](mailto:kerioxsx@gmail.com)**
